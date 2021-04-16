@@ -20,17 +20,19 @@
   - [ ] `<header>` [Link](https://www.w3docs.com/learn-html/html-header-tag.html)
   - [ ] `<footer>` [Link](https://www.w3docs.com/learn-html/html-footer-tag.html)
   - [ ] `<summary>` [Link](https://www.w3docs.com/learn-html/html-summary-tag.html)
+  - [ ] `<audio>` [Link] (https://www.w3docs.com/learn-html/audio-and-video-in-html5.html)
+  - [ ] `<video>` [Link] (https://www.w3docs.com/learn-html/audio-and-video-in-html5.html)
 
 - [ ] HTML Elements and their attributes
   - [ ] Documents `<!DOCTYPE>` [Link](https://www.w3docs.com/learn-html/html-doctype-declaration.html)
-  - [ ] Headings `<h1> - <h6>` [Link](https://www.w3docs.com/learn-html/html-h1-h6-tags.html)
   - [ ] Paragraph `<p>` [Link](https://www.w3docs.com/learn-html/html-p-tag.html)
   - [ ] Lists `<li>, <ul>, <dl>` [Link](https://www.w3docs.com/learn-html/html-lists.html)
   - [ ] Links `<a>` [Link](https://www.w3docs.com/learn-html/html-a-tag.html)
   - [ ] Images `<img>` [Link](https://www.w3docs.com/learn-html/html-images.html)
   - [ ] Table `<table>`[Link](https://www.w3docs.com/learn-html/html-table.html)
 
-- [ ] HTML Formatting
+- [ ] HTML Text Formatting
+  - [ ] `<h1> - <h6>` [Link](https://www.w3docs.com/learn-html/html-h1-h6-tags.html) 
   - [ ] `<b>` - Bold text [Link](https://www.w3docs.com/learn-html/html-b-tag.html)
   - [ ] `<strong>` - Important text [Link](https://www.w3docs.com/learn-html/html-strong-tag.html)
   - [ ] `<small>` - Smaller text
@@ -41,7 +43,7 @@
   - [ ] `<pre>` - preformatted text [Link](https://www.w3docs.com/learn-html/html-pre-tag.html)
 - [ ] HTML Comments `<!-- -->` [Link](https://www.w3docs.com/learn-html/html-comments.html)
 - [ ] HTML forms [Link](https://www.w3docs.com/learn-html/html-form-tag.html)
-    - [ ] `<input>` [Link](https://www.w3docs.com/learn-html/html-input-tag.html)
+  - [ ] `<input>` [Link](https://www.w3docs.com/learn-html/html-input-tag.html)
   - [ ] `<textarea>` [Link](https://www.w3docs.com/learn-html/html-textarea-tag.html)
   - [ ] `<button>` [Link](https://www.w3docs.com/learn-html/html-button-tag.html)
   - [ ] `<select>` [Link](https://www.w3docs.com/learn-html/html-select-tag.html)
@@ -93,6 +95,11 @@
      - [ ] none
    - [ ] [type="text"]
    - [ ] class vs id
+   - [ ] Overflow
+     - [ ] visible
+     - [ ] hidden
+     - [ ] scroll
+     - [ ] auto
 
 #### Step up CSS 
    - [ ] animations 
